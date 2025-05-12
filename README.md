@@ -1,5 +1,4 @@
-# supreme-doodle
-SafeLearn/
+# SafeLearn/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
